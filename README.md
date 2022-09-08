@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Arthur</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geniusapc" alt="geniusapc" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/geniusapc" target="blank"><img src="https://img.shields.io/twitter/follow/geniusapc?logo=twitter&style=for-the-badge" alt="geniusapc" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.geniusapc.com](https://www.geniusapc.com)
+- 👨‍💻 Portfolio [https://www.geniusapc.com](https://www.geniusapc.com)
 
 - 📫 How to reach me **geniusapc@gmail.com**
 
