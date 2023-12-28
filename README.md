@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Arthur</h1>
-<h3 align="center">A Software developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 - 👨‍💻 Portfolio [https://www.geniusapc.com](https://geniusapc.com)
 
