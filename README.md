@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Arthur</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A Software developer</h3>
 
-- 👨‍💻 Portfolio [https://www.geniusapc.com](https://www.geniusapc.com)
+- 👨‍💻 Portfolio [https://www.geniusapc.com](https://geniusapc.com)
 
 - 📫 How to reach me **geniusapc@gmail.com**
 
@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/geniusapc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geniusapc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/geniusapc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geniusapc" height="30" width="40" /></a>
-<a href="https://fb.com/geniusapc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geniusapc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
