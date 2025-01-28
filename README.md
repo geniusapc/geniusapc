@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4fa66918-e7ba-4c47-ab75-2c43c92b6fb9)<h1 align="center">Hi 👋, I'm Prince Arthur</h1>
+<h1 align="center">Hi 👋, I'm Prince Arthur</h1>
 <h3 align="center">A Software Developer</h3>
 
 - 👨‍💻 Portfolio [https://geniusapc-com.vercel.app](https://geniusapc-com.vercel.app)
